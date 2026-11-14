@@ -2,12 +2,12 @@
 
 ## Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/coderceo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" height="32"></a>
-  <a href="https://x.com/coderceo"><img src="https://img.shields.io/badge/X-252D38?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" height="32"></a>
-  <a href="https://t.me/coderceo"><img src="https://img.shields.io/badge/Telegram-006EA6?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" height="32"></a>
-  <a href="mailto:dinocoder9@gmail.com"><img src="https://img.shields.io/badge/Email-394E65?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="32"></a>
-  <a href="https://leetcode.com/u/coderceo/"><img src="https://img.shields.io/badge/LeetCode-252D38?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode" height="32"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/coderceo/"><img src="assets/contact/linkedin.png" alt="LinkedIn" width="131" height="52"></a>
+  <a href="https://x.com/coderceo"><img src="assets/contact/x.png" alt="X" width="79" height="52"></a>
+  <a href="https://t.me/coderceo"><img src="assets/contact/telegram.png" alt="Telegram" width="136" height="52"></a>
+  <a href="mailto:dinocoder9@gmail.com"><img src="assets/contact/email.png" alt="Email" width="108" height="52"></a>
+  <a href="https://leetcode.com/u/coderceo/"><img src="assets/contact/leetcode.png" alt="LeetCode" width="137" height="52"></a>
 </p>
 
 <details>
