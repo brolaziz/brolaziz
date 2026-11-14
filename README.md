@@ -33,9 +33,9 @@ I'm a software engineer focused on full-stack JavaScript development with the ME
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40">&nbsp;
@@ -48,13 +48,17 @@ I'm a software engineer focused on full-stack JavaScript development with the ME
 
 ---
 
-### :fire: My Stats
+<h3 align="center">🔥 My Stats</h3>
+
+<div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=brolaziz&style=flat-square&color=blue)
 
 [![GitHub streak and total contributions for brolaziz](https://streak-stats.demolab.com/?user=brolaziz&theme=dark&background=000000&timezone=Asia%2FTashkent&disable_animations=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Most used languages in brolaziz's public repositories by code size](assets/top-languages.svg)](https://github.com/brolaziz?tab=repositories)
+
+</div>
 
 <!-- Enable the Blog Posts section when a blog RSS feed is available.
 
