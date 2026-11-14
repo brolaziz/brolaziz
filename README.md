@@ -37,4 +37,8 @@ I'm working toward a senior engineering role and developing the skills to lead a
 
 ## Find Me Online
 
-[LinkedIn](https://www.linkedin.com/in/coderceo/) · [X](https://x.com/coderceo) · [Telegram](https://t.me/coderceo) · [Email](mailto:dinocoder9@gmail.com) · [LeetCode](https://leetcode.com/u/coderceo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-27394F?style=flat-square)](https://www.linkedin.com/in/coderceo/)
+[![X](https://img.shields.io/badge/X-27394F?style=flat-square&logo=x&logoColor=white)](https://x.com/coderceo)
+[![Telegram](https://img.shields.io/badge/Telegram-27394F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/coderceo)
+[![Email](https://img.shields.io/badge/Email-27394F?style=flat-square&logo=gmail&logoColor=white)](mailto:dinocoder9@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-27394F?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/coderceo/)
