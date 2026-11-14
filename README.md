@@ -1,44 +1,60 @@
-# Hi, I'm Abdulaziz — coderceo
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="100">
+  <br>
+  <a href="https://www.linkedin.com/in/coderceo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/coderceo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"></a>
+  <a href="https://t.me/coderceo"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+  <a href="mailto:dinocoder9@gmail.com"><img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/coderceo/"><img src="https://img.shields.io/badge/LeetCode-252525?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode"></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=brolaziz&amp;style=flat-square&amp;color=blue" alt="Profile views">
+  <h1>Hi, I'm Abdulaziz — coderceo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="30"></h1>
+</div>
 
-![Close-up of a graphite circuit board](assets/circuit-banner.jpg)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Animated illustration of a developer at a desk" width="600" height="300">
+</div>
 
-## About Me
+---
 
-I'm a software engineer focused on full-stack JavaScript development with the MERN stack. I'm interested in system design and how web applications work from the UI down to the infrastructure.
+### :man_technologist: About Me
 
-## Current Focus
+I'm a software engineer focused on full-stack JavaScript development with the MERN stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="" width="30">
 
-- Building full-stack web applications and learning more about the React ecosystem.
-- Studying systems programming, system design, and the infrastructure behind web services.
-- Practicing data structures and algorithms in JavaScript.
-- Studying mathematics for machine learning and improving my English as part of SAT preparation.
+- :telescope: I build full-stack web applications and deepen my knowledge of the React ecosystem.
+- :seedling: I'm studying systems programming with C and C++, system design, and the infrastructure behind web services.
+- :zap: I practice data structures and algorithms in JavaScript on [LeetCode](https://leetcode.com/u/coderceo/) and explore Python and Java.
+- :books: I'm studying mathematics for machine learning and improving my English as part of SAT preparation.
+- :dart: I'm working toward a senior engineering role and learning to lead a team. Long term, I'm interested in machine learning engineering or principal-level work on large-scale systems at a leading technology company.
+- :mailbox: You can reach me on [LinkedIn](https://www.linkedin.com/in/coderceo/) or by [email](mailto:dinocoder9@gmail.com).
 
-## Technologies
+---
 
-<details>
-<summary>View technology stack</summary>
+### :hammer_and_wrench: Languages and Tools
 
-- **Working with** `JavaScript` · `React` · `Node.js` · `Express` · `MongoDB`
-- **Building foundations in** `C` · `C++`
-- **Exploring** `Python` · `Java`
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">
+</div>
 
-</details>
+---
 
-## Long-Term Goals
+### :fire: My Stats
 
-I'm working toward a senior engineering role and developing the skills to lead a team. Over time, I'd like to pursue machine learning engineering or principal-level work on large-scale systems. One goal is to contribute to products at a leading technology company.
+[![GitHub streak and total contributions for brolaziz](https://streak-stats.demolab.com/?user=brolaziz&theme=dark&background=000000&timezone=Asia%2FTashkent&disable_animations=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-## GitHub Activity
+[![Most used languages in brolaziz's public repositories by code size](assets/top-languages.svg)](https://github.com/brolaziz?tab=repositories)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=brolaziz&amp;hide_border=true&amp;disable_animations=true&amp;card_width=440&amp;card_height=170&amp;timezone=Asia%2FTashkent&amp;theme=github-dark-blue&amp;background=151B23&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=79C0FF">
-  <img width="440" alt="Total GitHub contributions, current streak, and longest streak for brolaziz" src="https://streak-stats.demolab.com/?user=brolaziz&amp;hide_border=true&amp;disable_animations=true&amp;card_width=440&amp;card_height=170&amp;timezone=Asia%2FTashkent&amp;theme=default&amp;background=F6F8FA&amp;stroke=D0D7DE&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA">
-</picture>
+<!-- Enable the Blog Posts section when a blog RSS feed is available.
 
-## Find Me Online
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-27394F?style=flat-square)](https://www.linkedin.com/in/coderceo/)
-[![X](https://img.shields.io/badge/X-27394F?style=flat-square&logo=x&logoColor=white)](https://x.com/coderceo)
-[![Telegram](https://img.shields.io/badge/Telegram-27394F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/coderceo)
-[![Email](https://img.shields.io/badge/Email-27394F?style=flat-square&logo=gmail&logoColor=white)](mailto:dinocoder9@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-27394F?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/coderceo/)
+### :writing_hand: Blog Posts
+
+-->

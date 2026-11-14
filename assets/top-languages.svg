@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="140" viewBox="0 0 350 140" role="img" aria-labelledby="title description">
+  <title id="title">Most Used Languages</title>
+  <desc id="description">Language proportions by bytes in brolaziz's public, non-fork repositories, excluding the profile repository. Snapshot from November 14, 2026.</desc>
+  <rect x=".5" y=".5" width="349" height="139" rx="5" fill="#1F222E" stroke="#E4E2E2"/>
+  <text x="24" y="32" fill="#DDE638" font-family="Segoe UI, sans-serif" font-size="18" font-weight="600">Most Used Languages</text>
+  <defs><clipPath id="bar"><rect x="24" y="49" width="302" height="9" rx="4.5"/></clipPath></defs>
+  <g clip-path="url(#bar)">
+    <rect x="24" y="49" width="222.978" height="9" fill="#3178C6"/>
+    <rect x="246.978" y="49" width="38.483" height="9" fill="#F1E05A"/>
+    <rect x="285.46" y="49" width="22.573" height="9" fill="#3572A5"/>
+    <rect x="308.034" y="49" width="16.748" height="9" fill="#A663C5"/>
+    <rect x="324.781" y="49" width="1.023" height="9" fill="#E34C26"/>
+    <rect x="325.805" y="49" width="0.195" height="9" fill="#384D54"/>
+  </g>
+  <g fill="#FFFFFF" font-family="Segoe UI, sans-serif" font-size="12">
+    <circle cx="29" cy="76" r="4.5" fill="#3178C6"/><text x="39" y="80">TypeScript 73.83%</text>
+    <circle cx="183" cy="76" r="4.5" fill="#F1E05A"/><text x="193" y="80">JavaScript 12.74%</text>
+    <circle cx="29" cy="96" r="4.5" fill="#3572A5"/><text x="39" y="100">Python 7.47%</text>
+    <circle cx="183" cy="96" r="4.5" fill="#A663C5"/><text x="193" y="100">CSS 5.55%</text>
+    <circle cx="29" cy="116" r="4.5" fill="#E34C26"/><text x="39" y="120">HTML 0.34%</text>
+    <circle cx="183" cy="116" r="4.5" fill="#384D54"/><text x="193" y="120">Dockerfile 0.06%</text>
+  </g>
+</svg>
