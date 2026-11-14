@@ -3,11 +3,11 @@
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/coderceo/"><img src="assets/contact/linkedin.png" alt="LinkedIn" width="131" height="52"></a>
-  <a href="https://x.com/coderceo"><img src="assets/contact/x.png" alt="X" width="79" height="52"></a>
-  <a href="https://t.me/coderceo"><img src="assets/contact/telegram.png" alt="Telegram" width="136" height="52"></a>
-  <a href="mailto:dinocoder9@gmail.com"><img src="assets/contact/email.png" alt="Email" width="108" height="52"></a>
-  <a href="https://leetcode.com/u/coderceo/"><img src="assets/contact/leetcode.png" alt="LeetCode" width="137" height="52"></a>
+  <a href="https://www.linkedin.com/in/coderceo/"><img src="assets/contact/linkedin-color.png" alt="LinkedIn" width="131" height="52"></a>
+  <a href="https://x.com/coderceo"><img src="assets/contact/x-color.png" alt="X" width="79" height="52"></a>
+  <a href="https://t.me/coderceo"><img src="assets/contact/telegram-color.png" alt="Telegram" width="136" height="52"></a>
+  <a href="mailto:dinocoder9@gmail.com"><img src="assets/contact/email-color.png" alt="Email" width="108" height="52"></a>
+  <a href="https://leetcode.com/u/coderceo/"><img src="assets/contact/leetcode-color.png" alt="LeetCode" width="137" height="52"></a>
 </p>
 
 <details>
