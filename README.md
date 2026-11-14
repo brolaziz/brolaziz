@@ -1,54 +1,26 @@
-<a href="#loyihalar">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png">
-    <img src="assets/banner.gif" width="960" alt="Abdulaziz (@brolaziz) — loyihalarni ko‘rish">
-  </picture>
-</a>
+# Hi, I'm Abdulaziz — coderceo
 
-## Salom, men Abdulaziz
+## About Me
 
-Telegram botlar va veb-ilovalar yarataman. Algoritmlarni JavaScript’da mashq qilaman.
+I'm a software engineer focused on full-stack JavaScript development with the MERN stack. I'm interested in system design and how web applications work from the UI down to the infrastructure.
 
-**JavaScript** · **TypeScript** · **Python**
+## Current Focus
 
-## Loyihalar
+- Building full-stack web applications and learning more about the React ecosystem.
+- Studying systems programming, system design, and the infrastructure behind web services.
+- Practicing data structures and algorithms in JavaScript.
+- Studying mathematics for machine learning and improving my English as part of SAT preparation.
 
-<details open>
-<summary><strong>Cafe Bot</strong> · Telegram Mini App</summary>
+## Technologies
 
-Mijozlar menyudan buyurtma beradi va uning holatini kuzatadi. Kafe xodimlari menyu va buyurtmalarni Telegram orqali boshqaradi.
+- **Working with** `JavaScript` · `React` · `Node.js` · `Express` · `MongoDB`
+- **Building foundations in** `C` · `C++`
+- **Exploring** `Python` · `Java`
 
-[Kodni ko‘rish](https://github.com/brolaziz/cafe-bot) · [Mini App’ni ochish](https://cafe-bot-chi.vercel.app/)
+## Long-Term Goals
 
-</details>
+I'm working toward a senior engineering role and developing the skills to lead a team. Over time, I'd like to pursue machine learning engineering or principal-level work on large-scale systems. One goal is to contribute to products at a leading technology company.
 
-<details>
-<summary><strong>CofeSave</strong> · Media yuklovchi bot</summary>
+## Find Me Online
 
-YouTube, Instagram va TikTok havolalaridan videolarni Telegramga yuklaydigan bot. Python, aiogram va FFmpeg bilan yozilgan.
-
-[Kodni ko‘rish](https://github.com/brolaziz/cofeloader)
-
-</details>
-
-<details>
-<summary><strong>Luna</strong> · AI yordamchi</summary>
-
-Qwen asosidagi Telegram yordamchisi. Guruh va shaxsiy chatlarda javob beradi, suhbat tarixini saqlaydi va guruh moderatsiyasini qo‘llab-quvvatlaydi.
-
-[Kodni ko‘rish](https://github.com/brolaziz/luna)
-
-</details>
-
-<details>
-<summary><strong>LeetCode</strong> · JavaScript mashqlari</summary>
-
-Two Sum, Palindrome Number va boshqa algoritmik masalalar uchun JavaScript yechimlarim.
-
-[Yechimlarni ko‘rish](https://github.com/brolaziz/leetcode-javascript)
-
-</details>
-
----
-
-[Barcha repozitoriylar](https://github.com/brolaziz?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/coderceo/) · [X](https://x.com/coderceo) · [Telegram](https://t.me/coderceo) · [Email](mailto:dinocoder9@gmail.com) · [LeetCode](https://leetcode.com/u/coderceo/)
