@@ -1,25 +1,28 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="100">
-  <br>
-  <a href="https://www.linkedin.com/in/coderceo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://x.com/coderceo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"></a>
-  <a href="https://t.me/coderceo"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
-  <a href="mailto:dinocoder9@gmail.com"><img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
-  <a href="https://leetcode.com/u/coderceo/"><img src="https://img.shields.io/badge/LeetCode-252525?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode"></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=brolaziz&amp;style=flat-square&amp;color=blue" alt="Profile views">
-  <h1>Hi, I'm Abdulaziz — coderceo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="30"></h1>
-</div>
+![Abdulaziz. @coderceo everywhere. A penguin chick stands in the snow.](assets/penguin-cover.jpg)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Animated illustration of a developer at a desk" width="600" height="300">
-</div>
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/coderceo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" height="32"></a>
+  <a href="https://x.com/coderceo"><img src="https://img.shields.io/badge/X-252D38?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" height="32"></a>
+  <a href="https://t.me/coderceo"><img src="https://img.shields.io/badge/Telegram-006EA6?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" height="32"></a>
+  <a href="mailto:dinocoder9@gmail.com"><img src="https://img.shields.io/badge/Email-394E65?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="32"></a>
+  <a href="https://leetcode.com/u/coderceo/"><img src="https://img.shields.io/badge/LeetCode-252D38?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode" height="32"></a>
+</p>
+
+<details>
+<summary>Contact details</summary>
+
+- **Handle** `coderceo`
+- **Email** `dinocoder9@gmail.com`
+
+</details>
 
 ---
 
 ### :man_technologist: About Me
 
-I'm a software engineer focused on full-stack JavaScript development with the MERN stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="" width="30">
+I'm a software engineer focused on full-stack JavaScript development with the MERN stack.
 
 - :telescope: I build full-stack web applications and deepen my knowledge of the React ecosystem.
 - :seedling: I'm studying systems programming with C and C++, system design, and the infrastructure behind web services.
@@ -46,6 +49,8 @@ I'm a software engineer focused on full-stack JavaScript development with the ME
 ---
 
 ### :fire: My Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=brolaziz&style=flat-square&color=blue)
 
 [![GitHub streak and total contributions for brolaziz](https://streak-stats.demolab.com/?user=brolaziz&theme=dark&background=000000&timezone=Asia%2FTashkent&disable_animations=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
